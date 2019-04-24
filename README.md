@@ -11,3 +11,7 @@ npm start
 # Build for production
 
 npm run build
+
+#Author
+
+Ram Lamichhane
